@@ -1,0 +1,12 @@
+Sample files to accompany "Host Your Web Site in the Cloud," 
+published by SitePoint Pty. Ltd in September 2010.
+
+For more information:
+
+SitePoint: 		http://www.sitepoint.com
+Amazon Web Services:	http://aws.amazon.com
+The book:		http://www.amazon.com/Host-Your-Web-Site-Cloud/dp/0980576830
+Jeff Barr:		http://www.jeff-barr.com
+
+Copyright 2009-2010 Amazon.com, Inc. or its affiliates. All Rights
+Reserved. 
